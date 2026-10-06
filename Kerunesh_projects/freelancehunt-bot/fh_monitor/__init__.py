@@ -1,1 +1,0 @@
-"""Freelancehunt → Telegram project monitor."""
